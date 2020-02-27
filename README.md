@@ -17,7 +17,6 @@ delete -> unload module <br>
 <br>
 # ps
 infinity ammo , esp and rapifire is enable by default (you can't disable it in game) <br>
-if your game crash can you please debug it then post **information** in issue so i can fix it **thank you** <br>
 
 **information content**
   - action that (you think may) cause you crash
