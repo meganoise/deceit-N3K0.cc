@@ -18,11 +18,6 @@ delete -> unload module <br>
 # ps
 infinity ammo , esp and rapifire is enable by default (you can't disable it in game) <br>
 
-**information content**
-  - action that (you think may) cause you crash
-  - where it crash ( in source code)
-  - call stack
-  
 # offsets
 * pGameFramework
   * offset : 0x1B468D0
